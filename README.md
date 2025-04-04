@@ -44,3 +44,26 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+//New Notes
+# Campus Connect Frontend
+
+Campus Connect is a student-focused web platform designed to help students connect with peers, events, organizations, and campus resources.
+
+##  Tech Stack
+
+- React + TypeScript
+- Tailwind CSS
+- React Router DOM
+- Create React App
+
+##  Getting Started
+
+Clone the repo:
+
+```bash
+git clone https://github.com/Moneymarrr38/Campus-Connect-frontend-.git
+cd Campus-Connect-frontend-
+npm install
